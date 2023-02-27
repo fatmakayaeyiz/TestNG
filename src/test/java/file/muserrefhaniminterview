@@ -1,0 +1,49 @@
+
+projelerle ve sirketle alakali kendinizi tanitirmisiniz
+6 dev 2 tester olan ekipte calisiyorum
+
+hangi toollari kullaniyorsunuz
+testng cucumber junit bunlara hakimim kendi fremwork'umde bunlar var ayrica reusabel methodlar kullaniyorum
+
+testng de hangi tur anotation kullaniyorsunuz
+befor after dataprovider
+
+pom kullaniyormusunuz pom nedir
+pom bir dizayn sistemidir bir format olusturduktan sonra detaylica olusturulmus sistem reusabel methodlarim var locatelerimi sabitlediğim sistem
+
+
+singleton driver ne demektir
+driver objesinin birden fazla olmasinin durumunda cakismayi onlemek amaciyla utilities de hazirladigim class
+
+testng de sorties icin obje olusturmamiz lazim assertle kullanmamiz lazim eger kullanmazsak hatali olsa bile passed olabilir
+
+
+datalari kimden alirsiniz
+datalari ba dan dev ekipten test ekipteki team lead den alabiliriz suan biz test leadden aliyoruz
+
+java da kendinizi 10 uzerinden degerlendirin
+8 veririm selenium da da 9 veririm
+
+yasadiğiniz zorluklar nelerdir cozumleriniz nelerdir
+dev ekibiyle zaman zaman sorun yasayabiliyoruz zid düstügümüz durumlar olabiliyor genellikle test ekibiyle bir araya gelip ortak karar aliyoruz ama oyle buyuk bir sorun yasamadik
+
+versiyon kontrol sistemi var mi
+git kullaniyyoruz
+
+git e nasil kod gonderirsiniz
+branch araciliğiyla git e yollariz team lead march yapiyor bir yapmiyoruz
+
+kodlari nasil commit yapiyorsunuz
+once git initle iliskilendirip add ve commit seklinde versiyon ismi veriyorum puss edip githuba yonlendiriyorum
+
+bir sayfa dusunun sayfaya login yapmaniz gerekicek otomasyonu yapmaniz gerekicek bir us yi bastan sona kadar tum surecleri anlatirmisiniz
+once manuel mantikla bir test case yazarim excelden manuel olarak test edip sonra kod kismina geciyorum otomasyonu yaptiktan sonra failleri ekiple konusup degerlendirdikten sonra buck ticket olusturuyorum
+
+buglari nereye olusturuyorsunuz
+jira kullaniyoruz
+
+login fonksiyonunda bir hata buldugunuzda ne yapiyorsunuz
+bug ticket olusturup duzelince tekrar test ediyorum
+
+sprint bitti hala cozulmedi ?
+o kisim cozulmediginde to do da birakiyoruz yeni sprintte tekrar degerlendiririm
